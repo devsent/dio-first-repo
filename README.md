@@ -14,7 +14,7 @@ Desafio de projeto sobre versionamento de código com Git/Github para o **Santan
 # Projetos
 
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark:
-- Recriando a página inicial do Instagram :x:
+- [Recriando a página inicial do Instagram](https://github.com/devsent/instagram-clone-dio) :heavy_check_mark:
 - Introdução Prática ao TypeScript :x:
 - Como criar um front-end de um e-commerce utilizando Angular :x:
 - Criando um Banco Digital com Java e Orientação a Objetos :x:
